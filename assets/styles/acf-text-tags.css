@@ -1,0 +1,25 @@
+.acf-field-text-tags .tag {
+  border-color: #dfdfdf;
+  border-radius: 0;
+  color: rgb(68, 68, 68) !important;
+  margin-right: 2px !important;
+  margin-top: 2px !important;
+  line-height: 1.6;
+  font-size: 14px;
+  background-color: #e4e4e4;
+  max-width: 100%;
+  overflow: hidden;
+  word-wrap: normal !important;
+  white-space: normal;
+  padding: 3px 5px;
+  display: inline-flex;
+}
+
+.acf-field-text-tags .bootstrap-tagsinput {
+  display: block;
+}
+
+.acf-field-text-tags .bootstrap-tagsinput input {
+  display: inline-block;
+  width: auto !important;
+}
